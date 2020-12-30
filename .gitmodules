@@ -1,0 +1,3 @@
+[submodule "terraform-gcp-composer"]
+	path = terraform-gcp-composer
+	url = https://gitlab.com/becks-gcp/templates/terraform-gcp-composer.git
